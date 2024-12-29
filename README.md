@@ -56,6 +56,8 @@
   <img src="https://img.shields.io/badge/Notion-181717?style=flat&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-181717?style=flat&logo=discord&logoColor=pople"/>
   <img src="https://img.shields.io/badge/IntelliJ-181717?style=flat&logo=intellijidea&logoColor=blue" />
+
 </div>
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungIlB&show_icons=true&theme=radical)
